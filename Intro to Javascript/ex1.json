@@ -1,0 +1,49 @@
+{
+	"products": [{
+		"id": 4450,
+		"title": "Shopify T-Shirt",
+		"handle": "shopify-t-shirt",
+		"body_html": "\u003cp\u003eSo this is a product.\u003c\/p\u003e\n\n\n\t\u003cp\u003eThe text you see here is a Product Description. Every product has a price, a weight, a picture and a description.  To edit the description of this product or to create a new product you can go to the \u003ca href=\"\/admin\/products\"\u003eProducts Tab\u003c\/a\u003e of the administration menu.\u003c\/p\u003e\n\n\n\t\u003cp\u003eOnce you have mastered the creation and editing of products you will want your products to show up on your Shopify site.  There is a two step process to do this.\u003c\/p\u003e\n\n\n\t\u003cp\u003eFirst you need to add your products to a Collection.  A Collection is an easy way to group products together. If you go to the \u003ca href=\"\/admin\/collections\"\u003eCollections Tab\u003c\/a\u003e of the administration menu you can begin creating collections and adding products to them.\u003c\/p\u003e\n\n\n\t\u003cp\u003eSecond you\u0026#8217;ll need to create a link from your shop\u0026#8217;s navigation menu to your Collections. You can do this by going to the \u003ca href=\"\/admin\/links\"\u003eNavigations Tab\u003c\/a\u003e of the administration menu and clicking on \u0026#8220;Add a link\u0026#8221;.\u003c\/p\u003e\n\n\n\t\u003cp\u003eGood luck with your shop!\u003c\/p\u003e",
+		"published_at": "2006-06-03T01:28:13-04:00",
+		"created_at": "2006-06-03T01:28:13-04:00",
+		"updated_at": "2014-08-05T16:58:27-04:00",
+		"vendor": "Shopify",
+		"product_type": "Shirts",
+		"tags": ["mensware", "tshirts"],
+		"variants": [{
+			"id": 5475,
+			"title": "Medium",
+			"option1": "Medium",
+			"option2": null,
+			"option3": null,
+			"sku": "",
+			"requires_shipping": true,
+			"taxable": true,
+			"featured_image": null,
+			"available": false,
+			"price": "19.00",
+			"grams": 0,
+			"compare_at_price": null,
+			"position": 1,
+			"product_id": 4450,
+			"created_at": "2006-06-03T01:28:13-04:00",
+			"updated_at": "2017-11-10T14:55:47-05:00"
+		}],
+		"images": [{
+			"id": 4991,
+			"created_at": "2006-06-03T01:28:13-04:00",
+			"position": 1,
+			"updated_at": "2006-08-10T16:18:59-04:00",
+			"product_id": 4450,
+			"variant_ids": [],
+			"src": "https:\/\/cdn.shopify.com\/s\/files\/1\/0000\/2442\/products\/shopify_shirt.png?v=1155241139",
+			"width": 323,
+			"height": 434
+		}],
+		"options": [{
+			"name": "Title",
+			"position": 1,
+			"values": ["Medium"]
+		}]
+	}]
+}

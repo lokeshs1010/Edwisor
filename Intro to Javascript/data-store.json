@@ -1,0 +1,49 @@
+{
+    "Mobiles": [
+        {
+            "id": "mob01",
+            "brand": "Samsung",
+            "name": "Samsung Galaxy On Nxt",
+            "price": 10999,,
+            "images": [
+                "img/samsung-galaxy-on-nxt"
+            ],
+            "description": "The On Nxt is a performance beast, thanks to the powerful 1.6 GHz, octa-core processor that’s aided by an impressive amount of RAM (3 GB).",
+            "highlights":[
+                "3 GB RAM | 16 GB ROM | Expandable Upto 256 GB",
+                "5.5 inch Full HD Display",
+                "13MP Rear Camera | 8MP Front Camera",
+                "3300 mAh Li-ion Battery",
+                "Exynos 7870 Octa Core 1.6 GHz Processor",
+            ],
+            "Easy Payment Options" : [
+                "No cost EMI starting from ₹1,834/month",
+                "Cash on Delivery",
+                "Net banking & Credit/ Debit/ ATM card"
+            ]
+        },
+        {
+            "id": "mob02",
+            "brand": "Apple",
+            "name": "Apple iPhone X",
+            "price": 89000,
+            "discount":6001,
+            "discountPrice":82999,
+            "images": [
+                "img/apple-iphone.jpg"
+            ],
+            "description": "Meet the iPhone X - the device that’s so smart that it responds to a tap, your voice, and even a glance.",
+            "highlights":[
+                "64 GB ROM",
+                "5.8 inch Super Retina HD Display",
+                "12MP + 12MP Dual Rear Camera | 7MP Front Camera",
+                "lithium-ion Battery"
+            ],
+            "Easy Payment Options" : [
+                "EMI starting from ₹2,837/month",
+                "Cash on Delivery",
+                "Net banking & Credit/ Debit/ ATM card"
+            ]
+        }
+    ]
+}
